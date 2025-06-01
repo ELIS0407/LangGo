@@ -45,7 +45,7 @@
   </div>
   <div class="right">
     <h2>Daftar/login sebagai</h2>
-    <a href="register_siswa.php"><button class="btn">Siswa</button></a>
+    <a href="/about"><button class="btn">Siswa</button></a>
     <a href="register_guru.php"><button class="btn">Guru</button></a>
     <a href="register_guru.php"><button class="btn">cek status</button></a>
   </div>
